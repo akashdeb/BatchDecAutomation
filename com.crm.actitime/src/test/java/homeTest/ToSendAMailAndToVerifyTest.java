@@ -10,6 +10,7 @@ public class ToSendAMailAndToVerifyTest extends BaseClass {
 	public void sendAmailAndVerifyTest() {
 		
 		System.out.println("the mail has been sent and verified");
+		System.out.println("Demo Change");
 	}
 
 }
